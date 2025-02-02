@@ -23,8 +23,7 @@ Este proyecto es una aplicación web para realizar el juego del Amigo Secreto. P
 4. Para realizar el sorteo, haz clic en el botón "Sortear amigo". El nombre del amigo secreto se mostrará en la sección de resultados.
 
 ## Capturas de Pantalla
-
-
+![GIF 1](https://github.com/user-attachments/assets/d726b03a-ed4e-4aa8-8aad-ba14cf03737a)
 
 ## Tecnologías Utilizadas
 
